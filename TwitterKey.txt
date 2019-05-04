@@ -1,0 +1,5 @@
+consumer_key		= zqFF5EHgLki7vV2YiEALpviOV
+
+consummer_secret	= WoyBWDXmp71r4xOdEKAc9Zu6NvMICvBauc2VGflwK20PcNbcSh
+access_token		= 1118428434273669121-ion1iWbwXCf0x6fIq55mR0E7skSuEx
+access_token_secret	= H65Y1bfOQXSgRoblZ7ubdqXE3v31GBTirpT2EhtcWwWt9
